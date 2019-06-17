@@ -1,0 +1,10 @@
+.ms_logo {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+.ms_logo_ {
+	max-width: 100%;
+	border-radius: 50px;
+	opacity: 0.5;
+}
