@@ -1,11 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 
-/*
-	Dimension by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -955,6 +950,7 @@ input, select, textarea {
 			#header nav ul li {
 				padding-left: 0;
 				border-left: solid 1px #ffffff;
+
 			}
 
 				#header nav ul li:first-child {
@@ -1246,6 +1242,26 @@ input, select, textarea {
   margin-left:60px;
   
 
+<<<<<<< HEAD
+=======
+/* Card */
+
+#contact_image {
+		border-radius: 50%;
+		margin-top:20px;
+			
+
+			}
+			
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 80%;
+  background-color: rgba(0,0,0,0.2);
+  margin-left:60px;
+  
+
+>>>>>>> 49d4e40cca2ce65acb59208cbcf3333f35c97acc
 }
 
 .card:hover {
@@ -1267,6 +1283,10 @@ input, select, textarea {
 		margin-left:20px;
 	}
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 49d4e40cca2ce65acb59208cbcf3333f35c97acc
 /* Footer */
 
 	#footer {
