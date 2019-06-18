@@ -1225,46 +1225,22 @@ input, select, textarea {
 			}
 
 		}
-/* Card */
 
-#contact_image {
+/* Card */
+#contact_image{
 	border-radius: 50%;
 	margin-top: 20px;
-				
-
-	}
-			
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
-  width: 80%;
-  background-color: rgba(0,0,0,0.2);
-  margin-left:60px;
-  
-
-<<<<<<< HEAD
-=======
-/* Card */
-
-#contact_image {
-		border-radius: 50%;
-		margin-top:20px;
-			
-
-			}
-			
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
-  width: 80%;
-  background-color: rgba(0,0,0,0.2);
-  margin-left:60px;
-  
-
->>>>>>> 49d4e40cca2ce65acb59208cbcf3333f35c97acc
 }
+.card{
+	box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+	transition: 0.3s;
+	width: 80%;
+	background-color: rgba(0,0,0,0.2);
+	margin-left: 60px;
 
-.card:hover {
+}
+			
+.hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
@@ -1283,10 +1259,7 @@ input, select, textarea {
 		margin-left:20px;
 	}
 }
-<<<<<<< HEAD
-=======
 
->>>>>>> 49d4e40cca2ce65acb59208cbcf3333f35c97acc
 /* Footer */
 
 	#footer {
